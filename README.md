@@ -1,6 +1,6 @@
 # Hi there, I'm Araceli! 👋
 
-[![Araceli's GitHub stats](https://github-readme-stats.vercel.app/api?username=aracelivaldovinos)](https://github.com/aracelivaldovinos/github-readme-stats)
+[![Araceli's GitHub stats](https://github-readme-stats.vercel.app/api?username=aracelivaldovinos&hide=stars)](https://github.com/aracelivaldovinos/github-readme-stats)
 
 
 <!--
