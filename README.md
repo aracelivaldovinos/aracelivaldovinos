@@ -1,6 +1,11 @@
 # Hi there, I'm Araceli! 👋
 
+Check out new and existing projects all covering the following languages:
+[!JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png)
+
 [![Araceli's GitHub stats](https://github-readme-stats.vercel.app/api?username=aracelivaldovinos&hide=stars)](https://github.com/aracelivaldovinos/github-readme-stats)
+
+
 
 
 <!--
