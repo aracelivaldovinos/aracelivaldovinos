@@ -1,5 +1,10 @@
 # <p align="center"> Hi there, I'm Araceli! 👋 </p>
-
+<!--
+- 😄 Pronouns: She/Her
+- 🔭 Side projects I'm interested in building: 
+  - Science article subscription
+  - Organic chemistry game/helper
+-->
 
 #### <p align="center"> Check out my new and existing projects <br> all covering the following <br> programming languages & tools: </p>
 
