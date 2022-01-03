@@ -1,9 +1,13 @@
 # Hi there, I'm Araceli! 👋
 
-Check out new and existing projects all covering the following languages:
-[!JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png)
 
-[![Araceli's GitHub stats](https://github-readme-stats.vercel.app/api?username=aracelivaldovinos&hide=stars)](https://github.com/aracelivaldovinos/github-readme-stats)
+##About me:
+- I used to be a Forensic Scientist :nerd_face:. 
+
+Check out new and existing projects all covering the following languages:
+
+[![Araceli's GitHub stats](https://github-readme-stats.vercel.app/api?username=aracelivaldovinos&hide=stars)](https://github.com/aracelivaldovinos/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aracelivaldovinos)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
